@@ -20,3 +20,13 @@ header p {
     /*add font syle property here*/
     font-style: italic;
 }
+services i {
+    height:80px;
+    width:80px;
+    color:blue;
+    background-color:black;
+    padding:25px 20px;
+    font-size:30px;
+    border-radius:50%;
+    text-align: center;
+}
